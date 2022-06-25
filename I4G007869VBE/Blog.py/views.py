@@ -1,5 +1,5 @@
 from django.views import generic
-from I4G00205387B.blog.models import Post
+from I4G007869VBE.blog.models import Post
 from django.urls import reverse_lazy
 
 # Create your views here.
